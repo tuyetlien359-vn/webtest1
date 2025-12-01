@@ -1,0 +1,80 @@
+.banner {
+	background:url("img/codo.jpg") no-repeat center center;
+	background-size:cover;
+	padding-bottom:7rem;
+	padding-top:7rem;
+	text-align:center !important;
+	color:yellow !important;
+	font-size:50px;
+	font-family:serifs ;
+}
+.slogan {
+	text-align:center !important;
+	width:100%;
+}
+.row {
+	display:flex;
+	flex-wrap:wrap;
+	margin-top:-1;
+	max-width:100%;
+	padding-left:1rem;
+	padding-right:1rem;
+	background-color:rgb(225,225,50);
+	font-size:18px;
+	color:rgb(128,0,0) ;font-weight:bold;
+	font-family: red serifs;
+}
+.block_2 {
+	flex:auto;
+	width:50%;
+}
+.cell_img {
+	width:90px;
+	padding-left:15rem;
+	padding-right:15rem;
+}
+.cell_text {
+	width:60em;
+	padding-left:3rem;
+	padding-right:4rem;
+	font-size:21px;
+	color:black;
+}
+.link {
+	color:#3399FF;
+	text-align:left;
+}
+.menu { 	
+	font-size:120%;
+	text-decoration:none;
+}
+.cell {
+	text-align:justify;
+	padding:1.5em;
+}
+.main-content  {
+	display:flex;
+	width:100%;
+	padding-left:17rem;
+	font-size:26px;
+	color:black;
+}
+.img {
+	width:100%;
+	padding-left:0.5rem;
+}
+.avatar {	
+	width:25%;
+}
+.text {
+	width:75%;
+	font-size:1.5rem;
+	color:green;
+	padding-left:2em;
+}
+.footer {
+	background-color:rgb(128,0,0);
+	color:yellow;
+	margin:1px;
+	padding:10px;
+}
